@@ -34,26 +34,26 @@ C:\Users\user\Desktop\Cell-Corr_1.0.0>python -m PyInstaller --onefile --noconsol
 
 ## Step-by-step guidelines for users
 After successfully running Cell-Corr.exe the main menu must appear on the screen and a license notice.
-![Cell-Corr's main menu](instructions/MainMenu.png)
+![Cell-Corr's main menu](Instructions/MainMenu.png)
 
 ### Step 1: Sample Preparation
 Click File > Open Video or hit CTRL+O and from the file dialoge that will appear, chose the smaple video for preparation (format .avi or .mp4). Than a videoplayer must appear.
 
-![Videoplayer](instructions/videoplayer.png)
+![Videoplayer](Instructions/videoplayer.png)
 
 
 
 From here, we recommend to choose Mask button and start creating a mask around the area  of interest by clicking on the image. To close the poligon click very close to the first selected point (10 pixels near it). Hit the grayscale button for sample to become ready for colocalization analysis.  Lastly, save the frames of the video on a separated file of your choise. 
 Repeat the process for all the samples.
 
-![Edit](instructions/Masking.png)
+![Edit](Instructions/Masking.png)
 
-![save](instructions/saveframes.png)
+![save](Instructions/saveframes.png)
 
 ### Step 2: Colocalization Analysis
 Click Analysis > Colocalization Analysis. The window shown will open.
 
-![coloc](instructions/coloc1.png)
+![coloc](Instructions/coloc1.png)
 
 Here, there are many options that are described in the table below.
 
@@ -67,7 +67,7 @@ Std Error | Calculates the standard error of each row of the data frame. |
 Normality Test | Performs a normality test to check if the data correspond to a normal distribution. |
 Save | Saves the data frame to a csv file for later use.|
 
-![coloc2](instructions/Coloc2.png)
+![coloc2](Instructions/coloc2.png)
 
 ### Step 3: Statistical Analysis
 
@@ -76,4 +76,5 @@ Click Analysis > Graphical Analysis to start the statistical analysis.
 ## Citation
 
 No research article has been published yet.
+
 
