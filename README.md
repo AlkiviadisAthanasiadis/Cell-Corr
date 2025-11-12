@@ -9,7 +9,7 @@ contact: alkathnik@bio.auth.gr, alkisathan03@gmail.com
 
 ---
 ## Description 
-**Cell-Corr** is a Python-based, user-friendly software for **descriptive analysis of the dynamics of intracellular components**, such as actin microfilaments. Using the **Pearson’s Correlation Coefficient** (PCC), Cell-Corr provides a complete descriptive dynamics analysis of **live-cell** imaging data recieved by laser scanning confocal microscopy. It quantifies, via PCC, the differences between pairs of frames spaced at all time intervals throughout the whole time series. Unlike currently available software for **colocalization analysis**, Cell-Corr offers a complete workflow that includes video editing (cell selection), colocalization analysis, **exponential decay model fitting, statistical testing (ANOVA and Kruskal–Wallis with post hoc analysis)**, and the export of **ready-to-use figures**. With an intuitive graphical user interface (GUI) based on tkinter, Cell-Corr is designed to meet the needs of **biologists** without coding expertise.
+**Cell-Corr** is a Python-based, user-friendly software for **descriptive analysis of the dynamics of intracellular components**, such as actin microfilaments. Using the **Pearson’s Correlation Coefficient** (PCC), Cell-Corr provides a complete descriptive dynamics analysis of **live-cell** imaging data received by laser scanning confocal microscopy. It quantifies, via PCC, the differences between pairs of frames spaced at all time intervals throughout the whole time series. Unlike currently available software for **colocalization analysis**, Cell-Corr offers a complete workflow that includes video editing (cell selection), colocalization analysis, **exponential decay model fitting, statistical testing (ANOVA and Kruskal–Wallis with post hoc analysis)**, and the export of **ready-to-use figures**. With an intuitive graphical user interface (GUI) based on tkinter, Cell-Corr is designed to meet the needs of **biologists** without coding expertise.
 
 ## Systems Requirements 
 Before you install **Cell-Corr** on your computer make sure that the following requirements are sutisfied:
@@ -76,5 +76,6 @@ Click Analysis > Graphical Analysis to start the statistical analysis.
 ## Citation
 
 No research article has been published yet.
+
 
 
