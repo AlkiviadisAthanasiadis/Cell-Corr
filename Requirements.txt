@@ -1,0 +1,22 @@
+NumPy and Pandas
+
+
+OpenCV and Pillow
+
+
+scikit-image
+
+
+SciPy
+
+
+Matplotlib
+
+
+Statsmodels
+
+
+ImageIO
+
+
+scikit-posthoc
