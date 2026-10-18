@@ -31,17 +31,17 @@ contact: alkathnik@bio.auth.gr, alkisathan03@gmail.com
 
 4.Make the script executable and launch it:
 
-'''console
+```Bash
 chmod +x Cell-Corr_unix_v1.0.0.py
 
 ./Cell-Corr_unix_v1.0.0.py
-'''
+```
 
 Alternatively, run the application through Python:
 
-'''console
+```Bash
 python3 Cell-Corr_unix_v1.0.0.py
-'''
+```
 
 Dependencies: Cell-Corr requires the Python libraries used by the application. Install the required packages before launching the software. A complete list of dependencies and their compatible versions should be provided in the project documentation.
 
